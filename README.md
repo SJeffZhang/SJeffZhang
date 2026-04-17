@@ -1,4 +1,4 @@
-# Hi there, I'm jeffZhang 👋
+# Hi there, I'm JeffZhang 👋
 
 欢迎来到我的 GitHub 小角落 😄
 
